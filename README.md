@@ -64,7 +64,7 @@ npm run build
 Также необходимо отредактировать скрипт "predeploy".
 
 ```json
-"predeploy": "npm run build -- --public-url='/имя_репозитория/'"
+"predeploy": "npm run build -- --public-url /имя_репозитория/"
 ```
 
 После чего в терминале выполнить следующую команду.
