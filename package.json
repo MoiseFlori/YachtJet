@@ -2,22 +2,22 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://radu2023.github.io/team-leader-yacht-site-",
+  "homepage": "https://moiseflori.github.io/YachtJet",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-leader-yacht-site-/", 
+    "build": "parcel build src/*.html --public-url /YachtJet/", 
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/moiseflori/YachtJet.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/moiseflori/YachtJet/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
@@ -30,3 +30,4 @@
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
 }
+
